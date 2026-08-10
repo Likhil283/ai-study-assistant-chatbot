@@ -36,3 +36,13 @@ The chatbot was tested with five questions:
 3. What is Deep Learning?
 4. What is Python?
 5. What is a neural network?
+
+## API Key Setup
+
+Create a `.env` file in the project folder and add:
+
+GOOGLE_API_KEY=YOUR_GEMINI_API_KEY
+
+Replace `YOUR_GEMINI_API_KEY` with your own Gemini API key.
+
+Do not upload the `.env` file to GitHub.
